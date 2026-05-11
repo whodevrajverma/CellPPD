@@ -1,4 +1,4 @@
-# CellPPD: In Silico Tool for Designing and Predicting Highly Potent Cell-Penetrating Peptides
+# CellPPD: In silico approaches for designing highly effective cell penetrating peptides
 
 **CellPPD** is a specialized computational resource developed to identify, design, and scan for **Cell-Penetrating Peptides (CPPs)**. These short peptides (typically under 30 amino acids)
 serve as versatile transport vehicles for delivering molecular cargoes—such as oligonucleotides, small molecules, and proteins—into the interior of cells, overcoming the challenge of low bioavailability.
