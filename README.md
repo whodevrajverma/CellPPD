@@ -12,6 +12,8 @@ Gautam, A., Chaudhary, K., Kumar, R., Sharma, A., Kapoor, P., Tyagi, A., & Ragha
 **In silico approaches for designing and predicting highly effective cell penetrating peptides.** *Journal of Translational Medicine*, 11, 74.
 https://doi.org/10.1186/1479-5876-11-74
 
+This work is also available on Zenodo at https://doi.org/10.5281/zenodo.20117051
+
 
 ## About the Research
 
